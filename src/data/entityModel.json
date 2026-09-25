@@ -1,0 +1,722 @@
+{
+ "totals": {
+  "pages": 487,
+  "contentPages": 487,
+  "nonCanonical": 0,
+  "v1Entities": 0,
+  "v2Entities": 1188,
+  "v1PerPage": 0.0,
+  "v2PerPage": 2.44,
+  "v2PerContentPage": 2.44,
+  "multiple": 0,
+  "distinctEntities": 42,
+  "pagesWithZeroV1": 487,
+  "pagesWithZeroV2": 0,
+  "candidatePool": 30724,
+  "vocabTerms": 2196,
+  "classBlocks": 8,
+  "priorV2Entities": 0,
+  "priorV2PerPage": 0.0
+ },
+ "bySegment": [
+  {
+   "segment": "PRODUCT",
+   "pages": 229,
+   "v1": 0,
+   "v2": 558,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.44,
+   "traffic": 2102
+  },
+  {
+   "segment": "CATEGORY",
+   "pages": 72,
+   "v1": 0,
+   "v2": 225,
+   "v1PerPage": 0.0,
+   "v2PerPage": 3.12,
+   "traffic": 1482
+  },
+  {
+   "segment": "PRODUCT BRAND",
+   "pages": 74,
+   "v1": 0,
+   "v2": 158,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.14,
+   "traffic": 976
+  },
+  {
+   "segment": "COMPLIANCE STANDARD",
+   "pages": 56,
+   "v1": 0,
+   "v2": 125,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.23,
+   "traffic": 801
+  },
+  {
+   "segment": "SOLUTION",
+   "pages": 23,
+   "v1": 0,
+   "v2": 51,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.22,
+   "traffic": 19116
+  },
+  {
+   "segment": "NDT INSPECTION",
+   "pages": 20,
+   "v1": 0,
+   "v2": 42,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.1,
+   "traffic": 389
+  },
+  {
+   "segment": "BLOG POST",
+   "pages": 9,
+   "v1": 0,
+   "v2": 19,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.11,
+   "traffic": 1942
+  },
+  {
+   "segment": "ABOUT",
+   "pages": 3,
+   "v1": 0,
+   "v2": 7,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.33,
+   "traffic": 15
+  },
+  {
+   "segment": "HOMEPAGE",
+   "pages": 1,
+   "v1": 0,
+   "v2": 3,
+   "v1PerPage": 0.0,
+   "v2PerPage": 3.0,
+   "traffic": 689
+  }
+ ],
+ "entityPool": [
+  {
+   "qid": "Q141524498",
+   "label": "ATEC",
+   "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+   "pages": 487,
+   "relations": [
+    "publisher"
+   ]
+  },
+  {
+   "qid": "Q1860",
+   "label": "English",
+   "desc": "West Germanic language",
+   "pages": 487,
+   "relations": [
+    "inLanguage"
+   ]
+  },
+  {
+   "qid": "Q736777",
+   "label": "calibration",
+   "desc": "comparison of measurement values delivered by a device under test with those of a calibration standard with known accuracy; planned process of correcting and adjusting such a device to improve its precision",
+   "pages": 74,
+   "relations": [
+    "about",
+    "serviceType"
+   ]
+  },
+  {
+   "qid": "Q17551096",
+   "label": "Keysight Technologies",
+   "desc": "Test equipment manufacturer",
+   "pages": 14,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q1434157",
+   "label": "Fluke Corporation",
+   "desc": "American manufacturer of electronic test equipment",
+   "pages": 10,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q1347679",
+   "label": "Tektronix",
+   "desc": "company",
+   "pages": 8,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1529374",
+   "label": "network analyzer",
+   "desc": "Instrument for microwave characteristics measurements (such as VSWR,Power, Frequency,etc).",
+   "pages": 8,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q3745138",
+   "label": "Megger Group Limited",
+   "desc": "British manufacturing company",
+   "pages": 7,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q131214",
+   "label": "antenna",
+   "desc": "electrical device which converts electric power into radio waves, and vice versa",
+   "pages": 6,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q747288",
+   "label": "electromagnetic compatibility",
+   "desc": "ability of electrical equipment/system to function acceptably in its electromagnetic environment by limiting unintentional generation, propagation and reception of electromagnetic energy causing interference or physical damage",
+   "pages": 5,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q115281453",
+   "label": "amplifier",
+   "desc": "device that can increase the power of a signal (not necessarily electronic)",
+   "pages": 5,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q4165663",
+   "label": "Mitutoyo",
+   "desc": "Japanese multinational manufacturer of measuring instruments",
+   "pages": 5,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q189996",
+   "label": "multimeter",
+   "desc": "electronic measuring instrument that combines several measurement functions in one unit",
+   "pages": 5,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q204157",
+   "label": "power supply",
+   "desc": "electronic device that converts or regulates electric energy and supplies it to a load",
+   "pages": 5,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q3396184",
+   "label": "radio frequency",
+   "desc": "electromagnetic frequencies ranging from 3 kHz to 300 GHz",
+   "pages": 4,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q106838095",
+   "label": "Skefko",
+   "desc": "business",
+   "pages": 4,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q5507432",
+   "label": "Fujikura",
+   "desc": "business enterprise",
+   "pages": 4,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q1489206",
+   "label": "Vaisala",
+   "desc": "Finnish technology company making measuring instruments",
+   "pages": 4,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q1780079",
+   "label": "power quality",
+   "desc": "Correspondence between the current physical values ​​of the mains voltage as received by the \"consumer / customer\" and the property promised to the electrical supply company (supplier)",
+   "pages": 4,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q174320",
+   "label": "oscilloscope",
+   "desc": "Used for measuring waves",
+   "pages": 4,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1475699",
+   "label": "Keyence",
+   "desc": "Japanese electronics manufacturer",
+   "pages": 3,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q1474513",
+   "label": "electromagnetic interference",
+   "desc": "disturbance in an electrical circuit due to external sources of radio waves",
+   "pages": 3,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1806752",
+   "label": "load bank",
+   "desc": "large dummy load for testing electric power transmission systems",
+   "pages": 3,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q7598785",
+   "label": "Stanford Research Systems",
+   "desc": "test and measurement manufacturer",
+   "pages": 3,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q28402619",
+   "label": "Solmetric",
+   "desc": "solar equipment manufacturer in Sebastopol, California, USA",
+   "pages": 3,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q2911268",
+   "label": "borescope",
+   "desc": "optical instrument designed to assist visual inspection of narrow, difficult-to-reach spaces",
+   "pages": 3,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1055222",
+   "label": "spectrum analyzer",
+   "desc": "Instrument that measures the magnitude of an input signal versus frequency within the full frequency range of the instrument",
+   "pages": 2,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q928058",
+   "label": "environmental chamber",
+   "desc": "enclosure for testing materials under controlled conditions",
+   "pages": 2,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q129942823",
+   "label": "Fluke Biomedical",
+   "desc": "Subsidiary of Fluke corporation, former subsidiary of Bio-Tek, former subsidiary of Dynatech Corp.",
+   "pages": 2,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q571907",
+   "label": "Rohde & Schwarz",
+   "desc": "German multinational electronics company",
+   "pages": 2,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q64122",
+   "label": "electromagnetic pulse",
+   "desc": "burst of electromagnetic energy",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q3574961",
+   "label": "electrostatic discharge",
+   "desc": "sudden flow of electricity between two electrically charged objects caused by contact, an electrical short, or dielectric breakdown",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q581851",
+   "label": "thermographic camera",
+   "desc": "imaging device using infrared radiation",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q470317",
+   "label": "Ametek",
+   "desc": "US manufacturer of electronic instruments and electromechanical devices",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q197961",
+   "label": "optical fiber cable",
+   "desc": "cable assembly containing one or more optical fibers that are used to carry light",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q4688254",
+   "label": "Aeroflex",
+   "desc": "defunct American corporation",
+   "pages": 1,
+   "relations": [
+    "brand"
+   ]
+  },
+  {
+   "qid": "Q1929972",
+   "label": "partial discharge",
+   "desc": "localized dielectric breakdown (DB) of a small portion of a solid or fluid electrical insulation (EI) system under high voltage (HV) stress, which does not bridge the space between two conductors",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q99",
+   "label": "California",
+   "desc": "state of the United States of America",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1347772",
+   "label": "function generator",
+   "desc": "piece of electronic test equipment or software used to generate different types of electrical waveforms over a wide range of frequencies",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q48683",
+   "label": "Megohmmeter",
+   "desc": "ohmmeter used to measure the electrical resistance of insulators",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1259123",
+   "label": "signal generator",
+   "desc": "electronic devices or components that generate electrical voltages with a characteristic time course",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q177625",
+   "label": "electromagnetic field",
+   "desc": "physical field produced by electrically charged objects",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  }
+ ],
+ "samplePages": [
+  {
+   "url": "https://www.atecorp.com/emc/emp-generators",
+   "segment": "CATEGORY",
+   "traffic": 898,
+   "v1": 0,
+   "v2": 4,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q141524498",
+     "label": "ATEC",
+     "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+     "why": "the company itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q64122",
+     "label": "electromagnetic pulse",
+     "desc": "burst of electromagnetic energy",
+     "why": "the instrument type and what it measures"
+    },
+    {
+     "relation": "serviceType",
+     "qid": "Q736777",
+     "label": "calibration",
+     "desc": "comparison of measurement values delivered by a device under test with those of a calibration standard with known accuracy; planned process of correcting and adjusting such a device to improve its precision",
+     "why": "calibration is one of the three services offered"
+    }
+   ]
+  },
+  {
+   "url": "https://www.atecorp.com/products/amplifier-research",
+   "segment": "PRODUCT BRAND",
+   "traffic": 226,
+   "v1": 0,
+   "v2": 3,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q141524498",
+     "label": "ATEC",
+     "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+     "why": "the company itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q115281453",
+     "label": "amplifier",
+     "desc": "device that can increase the power of a signal (not necessarily electronic)",
+     "why": "the instrument type and what it measures"
+    }
+   ]
+  },
+  {
+   "url": "https://www.atecorp.com/",
+   "segment": "HOMEPAGE",
+   "traffic": 689,
+   "v1": 0,
+   "v2": 3,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q141524498",
+     "label": "ATEC",
+     "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+     "why": "the company itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "serviceType",
+     "qid": "Q736777",
+     "label": "calibration",
+     "desc": "comparison of measurement values delivered by a device under test with those of a calibration standard with known accuracy; planned process of correcting and adjusting such a device to improve its precision",
+     "why": "calibration is one of the three services offered"
+    }
+   ]
+  },
+  {
+   "url": "https://www.atecorp.com/products/olympus/38dl-plus",
+   "segment": "PRODUCT",
+   "traffic": 171,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q141524498",
+     "label": "ATEC",
+     "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+     "why": "the company itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.atecorp.com/compliance-standards/rtca-do-160",
+   "segment": "COMPLIANCE STANDARD",
+   "traffic": 258,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q141524498",
+     "label": "ATEC",
+     "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+     "why": "the company itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.atecorp.com/careers/welcome",
+   "segment": "ABOUT",
+   "traffic": 15,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q141524498",
+     "label": "ATEC",
+     "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+     "why": "the company itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.atecorp.com/solutions/fiber-splicing",
+   "segment": "SOLUTION",
+   "traffic": 18335,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q141524498",
+     "label": "ATEC",
+     "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+     "why": "the company itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.atecorp.com/ndt-inspection/visual-inspection/pipe-cameras",
+   "segment": "NDT INSPECTION",
+   "traffic": 99,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q141524498",
+     "label": "ATEC",
+     "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+     "why": "the company itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.atecorp.com/blog/emf-101-what-is-emf-why-is-it-important",
+   "segment": "BLOG POST",
+   "traffic": 1741,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q141524498",
+     "label": "ATEC",
+     "desc": "Primarily a rental company with select sales opportunities and a full in-house calibration service that is accredited to ISO 17025 by A2LA.",
+     "why": "the company itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  }
+ ]
+}

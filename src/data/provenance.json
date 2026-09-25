@@ -1,0 +1,165 @@
+{
+ "harvest": {
+  "classes": [
+   {
+    "cls": "technical standard",
+    "count": 17997,
+    "relation": "citation"
+   },
+   {
+    "cls": "measuring instrument inst",
+    "count": 7259,
+    "relation": "about"
+   },
+   {
+    "cls": "measuring instrument",
+    "count": 3206,
+    "relation": "about"
+   },
+   {
+    "cls": "technical standard sub",
+    "count": 1570,
+    "relation": "citation"
+   },
+   {
+    "cls": "measurement sub",
+    "count": 635,
+    "relation": "about"
+   },
+   {
+    "cls": "us state",
+    "count": 50,
+    "relation": "spatialCoverage"
+   },
+   {
+    "cls": "test equipment",
+    "count": 5,
+    "relation": "about"
+   },
+   {
+    "cls": "test equipment inst",
+    "count": 2,
+    "relation": "about"
+   }
+  ],
+  "classCount": 8,
+  "candidateEntities": 30724,
+  "surfaceForms": 36717
+ },
+ "coverage": {
+  "vocabTerms": 2196,
+  "exact": 26,
+  "headConcept": 686,
+  "noEntity": 1484,
+  "coreResolved": 54,
+  "coreRejected": 351,
+  "providersResolved": 16,
+  "providersNoEntity": 0,
+  "providerCandidates": []
+ },
+ "verification": {
+  "wrongSense": [
+   {
+    "term": "oscilloscope",
+    "qid": "Q7106423",
+    "label": "oscilloscope history",
+    "desc": "aspect of history",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "oscilloscope",
+    "qid": "Q123005355",
+    "label": "Oscilloscope and method for operating an oscilloscope",
+    "desc": "US patent 11187726",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "oscilloscope",
+    "qid": "Q123413225",
+    "label": "Oscilloscope probe identification",
+    "desc": "US patent 11287445",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "oscilloscope",
+    "qid": "Q3886493",
+    "label": "Oscilloscope",
+    "desc": "American independent film distributor and production company",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "spectrum analyzer",
+    "qid": "Q136815633",
+    "label": "Spectrum analyzer integrated in a point-to-point outdoor unit",
+    "desc": "US patent 11265118",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "spectrum analyzer",
+    "qid": "Q76904516",
+    "label": "SPECTRUM ANALYZERS WITH PROPORTIONAL COUNTERS",
+    "desc": "scientific article published on 01 January 1963",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "spectrum analyzer",
+    "qid": "Q131624671",
+    "label": "Spectrum analyzer for low magnetic field",
+    "desc": "scientific article published in November 1995",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "spectrum analyzer",
+    "qid": "Q77203954",
+    "label": "SPECTRUM ANALYZER FOR EEG",
+    "desc": "scientific article published on 01 January 1965",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "spectrum analyzer",
+    "qid": "Q127657468",
+    "label": "Spectrum Analyzer-Based Phase Measurement for Near-Field EMI Scanning",
+    "desc": "scholarly article",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "network analyzer",
+    "qid": "Q7000954",
+    "label": "network analyzer (AC power)",
+    "desc": "special-purpose analog computers",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "network analyzer",
+    "qid": "Q121720815",
+    "label": "Network analyzer that provides answer to inquiry about network failure and network analyzing method",
+    "desc": "US patent 11296925",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "network analyzer",
+    "qid": "Q128890720",
+    "label": "Network Analyzer Used in MPD Slow Control System Automation",
+    "desc": "scholarly article",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "network analyzer",
+    "qid": "Q11325486",
+    "label": "Network analyzer",
+    "desc": "Wikimedia disambiguation page",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "signal generator",
+    "qid": "Q124756357",
+    "label": "Signal generator",
+    "desc": "US patent 11264975",
+    "kind": "wrong sense, outranked"
+   }
+  ],
+  "myErrors": [],
+  "deadQids": [],
+  "v2PoolChecked": 42
+ }
+}

@@ -1,0 +1,534 @@
+{
+ "coverage": [
+  {
+   "segment": "SOLUTION",
+   "pages": 23,
+   "traffic": 19116,
+   "avgTypes": 5.0,
+   "types": [
+    {
+     "type": "Article",
+     "pages": 23,
+     "pct": 100
+    },
+    {
+     "type": "BreadcrumbList",
+     "pages": 23,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 23,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 23,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 23,
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "segment": "PRODUCT",
+   "pages": 229,
+   "traffic": 2102,
+   "avgTypes": 3.6,
+   "types": [
+    {
+     "type": "BreadcrumbList",
+     "pages": 229,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 229,
+     "pct": 100
+    },
+    {
+     "type": "Brand",
+     "pages": 73,
+     "pct": 32
+    },
+    {
+     "type": "Offer",
+     "pages": 73,
+     "pct": 32
+    },
+    {
+     "type": "Product",
+     "pages": 73,
+     "pct": 32
+    },
+    {
+     "type": "PropertyValue",
+     "pages": 73,
+     "pct": 32
+    },
+    {
+     "type": "QuantitativeValue",
+     "pages": 73,
+     "pct": 32
+    },
+    {
+     "type": "Organization",
+     "pages": 1,
+     "pct": 0
+    },
+    {
+     "type": "Person",
+     "pages": 1,
+     "pct": 0
+    },
+    {
+     "type": "WebPage",
+     "pages": 1,
+     "pct": 0
+    }
+   ]
+  },
+  {
+   "segment": "BLOG POST",
+   "pages": 9,
+   "traffic": 1942,
+   "avgTypes": 3.0,
+   "types": [
+    {
+     "type": "BlogPosting",
+     "pages": 9,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 9,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 9,
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "segment": "CATEGORY",
+   "pages": 72,
+   "traffic": 1482,
+   "avgTypes": 5.2,
+   "types": [
+    {
+     "type": "Organization",
+     "pages": 71,
+     "pct": 99
+    },
+    {
+     "type": "Person",
+     "pages": 71,
+     "pct": 99
+    },
+    {
+     "type": "BreadcrumbList",
+     "pages": 70,
+     "pct": 97
+    },
+    {
+     "type": "ListItem",
+     "pages": 70,
+     "pct": 97
+    },
+    {
+     "type": "WebPage",
+     "pages": 70,
+     "pct": 97
+    },
+    {
+     "type": "ItemList",
+     "pages": 12,
+     "pct": 17
+    },
+    {
+     "type": "Answer",
+     "pages": 2,
+     "pct": 3
+    },
+    {
+     "type": "FAQPage",
+     "pages": 2,
+     "pct": 3
+    },
+    {
+     "type": "Question",
+     "pages": 2,
+     "pct": 3
+    },
+    {
+     "type": "VideoObject",
+     "pages": 1,
+     "pct": 1
+    }
+   ]
+  },
+  {
+   "segment": "PRODUCT BRAND",
+   "pages": 74,
+   "traffic": 976,
+   "avgTypes": 3.0,
+   "types": [
+    {
+     "type": "BreadcrumbList",
+     "pages": 74,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 74,
+     "pct": 100
+    },
+    {
+     "type": "Brand",
+     "pages": 73,
+     "pct": 99
+    }
+   ]
+  },
+  {
+   "segment": "COMPLIANCE STANDARD",
+   "pages": 56,
+   "traffic": 801,
+   "avgTypes": 4.5,
+   "types": [
+    {
+     "type": "BreadcrumbList",
+     "pages": 56,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 56,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 46,
+     "pct": 82
+    },
+    {
+     "type": "Person",
+     "pages": 46,
+     "pct": 82
+    },
+    {
+     "type": "WebPage",
+     "pages": 46,
+     "pct": 82
+    }
+   ]
+  },
+  {
+   "segment": "HOMEPAGE",
+   "pages": 1,
+   "traffic": 689,
+   "avgTypes": 8.0,
+   "types": [
+    {
+     "type": "EntryPoint",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "GeoCoordinates",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "LocalBusiness",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "OpeningHoursSpecification",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "SearchAction",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "WebSite",
+     "pages": 1,
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "segment": "NDT INSPECTION",
+   "pages": 20,
+   "traffic": 389,
+   "avgTypes": 5.0,
+   "types": [
+    {
+     "type": "BreadcrumbList",
+     "pages": 20,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 20,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 20,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 20,
+     "pct": 100
+    },
+    {
+     "type": "WebPage",
+     "pages": 20,
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "segment": "ABOUT",
+   "pages": 3,
+   "traffic": 15,
+   "avgTypes": 0.0,
+   "types": []
+  }
+ ],
+ "defects": [
+  {
+   "id": "product-missing",
+   "severity": "Critical",
+   "pages": 4874,
+   "title": "Most of the catalogue carries no Product markup",
+   "detail": "In the audited set \u2014 the 229 product pages that rank \u2014 156 have only a breadcrumb. The catalogue is far larger than that: 6,549 product detail pages across 519 manufacturers. A random sample of 155 of the pages outside the audited set was checked live and 19% carried Product markup (95% confidence 13\u201326%). On that basis roughly 4,874\u20135,688 product pages have no Product markup. The 73 pages that do are excellent \u2014 SKU, brand, price, availability, condition, dimensions and a leaseLength that correctly models a rental.",
+   "fix": "Roll the existing product template across the catalogue, highest-traffic first. The markup pattern is already correct and already in production."
+  },
+  {
+   "id": "no-organization",
+   "severity": "Critical",
+   "pages": 316,
+   "title": "There is no sitewide identity block",
+   "detail": "Organization markup appears on only 171 of 487 pages. 316 pages \u2014 including every product page and most brand pages \u2014 say nothing about who publishes them. The homepage does carry a strong LocalBusiness node with geo coordinates and opening hours, but nothing else on the site references it.",
+   "fix": "Emit the Organization node sitewide with a stable @id, and reference it from every Product, Article and WebPage as publisher or seller."
+  },
+  {
+   "id": "catalogue-404",
+   "severity": "High",
+   "pages": 14,
+   "title": "Part of the catalogue no longer resolves",
+   "detail": "14 of 169 sampled catalogue URLs (8%) did not return 200 \u2014 a mix of 404s and timeouts. Extrapolated across 6,549 product pages that is a meaningful number of dead product URLs still linked from elsewhere on the web and from search results.",
+   "fix": "Crawl the full catalogue for status codes and redirect discontinued instruments to their category or successor model rather than leaving them to 404."
+  },
+  {
+   "id": "brand-not-org",
+   "severity": "High",
+   "pages": 74,
+   "title": "Manufacturer pages name a brand but never identify it",
+   "detail": "74 manufacturer pages carry a Brand node with a name string and nothing else \u2014 no sameAs, no Organization, no link to the manufacturer's own identity. These are real companies, most of them with their own Wikidata and Wikipedia entries, and the markup treats them as free text.",
+   "fix": "Type each manufacturer as an Organization with sameAs pointing at its Wikidata item and official site, and reference it from every product of that brand."
+  },
+  {
+   "id": "category-no-itemlist",
+   "severity": "High",
+   "pages": 60,
+   "title": "Category pages mostly lack ItemList",
+   "detail": "Only 12 of 72 category pages carry ItemList markup, though they are all the same kind of page: a filtered list of instruments. The twelve that do have it show the pattern works.",
+   "fix": "Extend the existing ItemList pattern to the remaining category pages, listing the product URLs in display order."
+  },
+  {
+   "id": "standards-thin",
+   "severity": "High",
+   "pages": 56,
+   "title": "Standards pages do not say which standard they are about",
+   "detail": "56 compliance-standards pages cover named, published standards \u2014 MIL-STD-810, RTCA DO-160 and others \u2014 and are typed as generic WebPage or Article. Nothing states that the page is about a specific technical standard, and nothing links the standard to the equipment that tests against it.",
+   "fix": "Add a TechArticle or DefinedTerm node naming the standard, with sameAs to its Wikidata item, and link it to the relevant product categories."
+  },
+  {
+   "id": "no-service",
+   "severity": "Medium",
+   "pages": 4,
+   "title": "The services page has no structured data at all",
+   "detail": "4 pages carry no JSON-LD, and /services is one of them. Calibration, repair and rental are the three things this business sells, and none of them is described as a Service.",
+   "fix": "Type the services page with a Service node per offering, each with provider, areaServed and serviceType."
+  },
+  {
+   "id": "solution-article",
+   "severity": "Medium",
+   "pages": 23,
+   "title": "Application pages are typed as generic Articles",
+   "detail": "23 solutions pages and 20 inspection pages explain test methods \u2014 EMC testing, ESD testing, OTDR testing, fibre splicing. They are typed as Article or WebPage. The fibre-splicing page alone is the single highest-traffic page on the site at an estimated 18,335 visits a month.",
+   "fix": "Type these as TechArticle with about pointing at the method's entity, and link to the instruments used and the standards involved."
+  },
+  {
+   "id": "faq-deprecated",
+   "severity": "Low",
+   "pages": 2,
+   "title": "FAQ markup no longer earns a rich result",
+   "detail": "2 pages carry FAQPage. Google removed the FAQ rich result from Search on 7 May 2026. The markup is still worth keeping for entity clarity and AI citation, but it should not be counted as a SERP feature.",
+   "fix": "Keep the markup, reset the expectation."
+  }
+ ],
+ "competitors": [
+  {
+   "domain": "jmtest.com",
+   "types": 11,
+   "list": [
+    "BreadcrumbList",
+    "Country",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "PropertyValueSpecification",
+    "ReadAction",
+    "SearchAction",
+    "WebPage",
+    "WebSite"
+   ],
+   "hasProduct": false,
+   "hasOffer": false,
+   "hasOrg": true,
+   "hasItemList": false,
+   "sampled": true,
+   "note": ""
+  },
+  {
+   "domain": "transcat.com",
+   "types": 0,
+   "list": [],
+   "hasProduct": false,
+   "hasOffer": false,
+   "hasOrg": false,
+   "hasItemList": false,
+   "sampled": false,
+   "note": "no product URL found in sitemaps"
+  },
+  {
+   "domain": "tequipment.net",
+   "types": 0,
+   "list": [],
+   "hasProduct": false,
+   "hasOffer": false,
+   "hasOrg": false,
+   "hasItemList": false,
+   "sampled": false,
+   "note": "no product URL found in sitemaps"
+  },
+  {
+   "domain": "testequity.com",
+   "types": 0,
+   "list": [],
+   "hasProduct": false,
+   "hasOffer": false,
+   "hasOrg": false,
+   "hasItemList": false,
+   "sampled": false,
+   "note": "no product URL found in sitemaps"
+  },
+  {
+   "domain": "electrorent.com",
+   "types": 0,
+   "list": [],
+   "hasProduct": false,
+   "hasOffer": false,
+   "hasOrg": false,
+   "hasItemList": false,
+   "sampled": true,
+   "note": ""
+  },
+  {
+   "domain": "avalontest.com",
+   "types": 0,
+   "list": [],
+   "hasProduct": false,
+   "hasOffer": false,
+   "hasOrg": false,
+   "hasItemList": false,
+   "sampled": false,
+   "note": "no product URL found in sitemaps"
+  }
+ ],
+ "clientTypes": [
+  "Answer",
+  "Article",
+  "BlogPosting",
+  "Brand",
+  "BreadcrumbList",
+  "EntryPoint",
+  "FAQPage",
+  "GeoCoordinates",
+  "ItemList",
+  "ListItem",
+  "LocalBusiness",
+  "Offer",
+  "OpeningHoursSpecification",
+  "Organization",
+  "Person",
+  "PostalAddress",
+  "Product",
+  "PropertyValue",
+  "QuantitativeValue",
+  "Question",
+  "SearchAction",
+  "VideoObject",
+  "WebPage",
+  "WebSite"
+ ],
+ "productExample": "/products/olympus/38dl-plus",
+ "totals": {
+  "pages": 487,
+  "types": 24,
+  "productPages": 229,
+  "productWith": 73,
+  "productWithout": 156,
+  "trafficUnmarked": 1454,
+  "trafficMarked": 648,
+  "orgPages": 171,
+  "noOrgPages": 316,
+  "brandPages": 74,
+  "categoryPages": 72,
+  "itemListPages": 12,
+  "standardsPages": 56,
+  "noJsonLd": 4,
+  "offers": 84,
+  "offersWithLease": 72
+ },
+ "catalogue": {
+  "cataloguePages": 6549,
+  "manufacturers": 519,
+  "auditedPages": 229,
+  "beyondAudit": 6320,
+  "sampleDrawn": 169,
+  "sampleLive": 155,
+  "sampleWithProduct": 30,
+  "rate": 0.1935,
+  "ciLo": 0.1314,
+  "ciHi": 0.2557,
+  "nonLive": 14,
+  "estUnmarkedLo": 4874,
+  "estUnmarkedHi": 5688
+ }
+}
