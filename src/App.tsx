@@ -5,6 +5,7 @@ import Coverage from "./components/Coverage";
 import Products from "./components/Products";
 import Catalogue from "./components/Catalogue";
 import Standards from "./components/Standards";
+import Industry from "./components/Industry";
 import EntityLayer from "./components/EntityLayer";
 import VerificationGate from "./components/VerificationGate";
 import Competitors from "./components/Competitors";
@@ -22,6 +23,7 @@ export default function App() {
       <Products />
       <Catalogue />
       <Standards />
+      <Industry />
       <EntityLayer />
       <VerificationGate />
       <Competitors />

@@ -7,6 +7,7 @@ const LINKS = [
   { id: "products", label: "The product problem" },
   { id: "catalogue", label: "Catalogue scale" },
   { id: "standards", label: "Standards & solutions" },
+  { id: "industry", label: "Industry snapshot" },
   { id: "entities", label: "Entity layer" },
   { id: "verification", label: "Verification gate" },
   { id: "competitors", label: "Competitors" },

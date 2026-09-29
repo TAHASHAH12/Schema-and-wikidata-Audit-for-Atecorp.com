@@ -150,3 +150,39 @@ export interface SchemaFindings {
     offers: number; offersWithLease: number;
   };
 }
+
+export interface DomainRow {
+  domain: string;
+  kind: string;
+  pages: number;
+  read: number;
+  anyLd: number | null;
+  product: number | null;
+  types: string[];
+}
+
+export interface Industry {
+  domain: string;
+  domainRows: DomainRow[];
+  competitors: DomainRow[];
+  competitorSet: string[];
+  keywords: number;
+  volume: number;
+  urls: number;
+  read: number;
+  unread: number;
+  domains: number;
+  aiKeywords: number;
+  aiPct: number;
+  aiTop: { domain: string; n: number }[];
+  clientAi: number;
+  carouselKeywords: number;
+  carouselPct: number;
+  carouselSellers: { seller: string; n: number }[];
+  carouselTotal: number;
+  byKind: Record<string, number>;
+  pageTypes: Record<string, number>;
+  markupByKind: Record<string, { n: number; anyLd: number; product: number }>;
+  types: Record<string, number>;
+  cost: number;
+}

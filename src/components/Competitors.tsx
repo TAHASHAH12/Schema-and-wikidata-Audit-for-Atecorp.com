@@ -13,6 +13,12 @@ export default function Competitors() {
         <div className="eyebrow">Competitors</div>
         <h2>An open field</h2>
         <p className="lead">
+          This section asks what the named rental competitors <em>ship</em>. The industry snapshot
+          above asks who actually <em>ranks</em> &mdash; and it is largely not them. Read together:
+          the direct competitors are weak on markup and weak in the results, while the manufacturers
+          and marketplaces taking those positions are strong on both.
+        </p>
+        <p className="lead" style={{ marginTop: 0 }}>
           Structured data was read from the live pages of the domains competing for the same terms.
           Where a product URL could be found in a sitemap, that page was sampled too &mdash; because
           the question worth answering is what a competitor puts on the page type we are trying to

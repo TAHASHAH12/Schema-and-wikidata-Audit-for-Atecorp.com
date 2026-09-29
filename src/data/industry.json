@@ -1,0 +1,788 @@
+{
+ "domain": "atecorp.com",
+ "domainRows": [
+  {
+   "domain": "youtube.com",
+   "kind": "UGC / social",
+   "pages": 19,
+   "read": 19,
+   "anyLd": 26,
+   "product": 0,
+   "types": [
+    "FollowAction",
+    "InteractionCounter",
+    "Person",
+    "ProfilePage",
+    "VideoObject",
+    "https://schema.org/Comment"
+   ]
+  },
+  {
+   "domain": "reddit.com",
+   "kind": "UGC / social",
+   "pages": 16,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "amazon.com",
+   "kind": "known competitor",
+   "pages": 12,
+   "read": 10,
+   "anyLd": 10,
+   "product": 0,
+   "types": [
+    "Person",
+    "VideoObject"
+   ]
+  },
+  {
+   "domain": "fluke.com",
+   "kind": "other site",
+   "pages": 12,
+   "read": 12,
+   "anyLd": 100,
+   "product": 50,
+   "types": [
+    "Organization",
+    "BreadcrumbList",
+    "ListItem",
+    "ImageObject",
+    "Product",
+    "Offer"
+   ]
+  },
+  {
+   "domain": "linkedin.com",
+   "kind": "UGC / social",
+   "pages": 10,
+   "read": 10,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "ImageObject",
+    "InteractionCounter",
+    "Organization",
+    "SocialMediaPosting",
+    "QuantitativeValue",
+    "Person"
+   ]
+  },
+  {
+   "domain": "facebook.com",
+   "kind": "UGC / social",
+   "pages": 9,
+   "read": 7,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "en.wikipedia.org",
+   "kind": "reference",
+   "pages": 8,
+   "read": 8,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "Article",
+    "ImageObject",
+    "Organization"
+   ]
+  },
+  {
+   "domain": "ebay.com",
+   "kind": "known competitor",
+   "pages": 7,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "atecorp.com",
+   "kind": "the client",
+   "pages": 6,
+   "read": 6,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "ListItem",
+    "Organization",
+    "Person",
+    "BlogPosting",
+    "WebPage"
+   ]
+  },
+  {
+   "domain": "degreec.com",
+   "kind": "other site",
+   "pages": 6,
+   "read": 6,
+   "anyLd": 83,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "PropertyValueSpecification"
+   ]
+  },
+  {
+   "domain": "fcc.gov",
+   "kind": "other site",
+   "pages": 5,
+   "read": 5,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "julabo.com",
+   "kind": "other site",
+   "pages": 5,
+   "read": 5,
+   "anyLd": 20,
+   "product": 0,
+   "types": [
+    "Corporation",
+    "ImageObject",
+    "OpeningHoursSpecification",
+    "PostalAddress"
+   ]
+  },
+  {
+   "domain": "omicronenergy.com",
+   "kind": "other site",
+   "pages": 5,
+   "read": 5,
+   "anyLd": 80,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "ListItem"
+   ]
+  },
+  {
+   "domain": "viavisolutions.com",
+   "kind": "other site",
+   "pages": 5,
+   "read": 5,
+   "anyLd": 60,
+   "product": 60,
+   "types": [
+    "ContactPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Product",
+    "WebSite"
+   ]
+  },
+  {
+   "domain": "eevblog.com",
+   "kind": "other site",
+   "pages": 4,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "tek.com",
+   "kind": "other site",
+   "pages": 4,
+   "read": 4,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "dictionary.cambridge.org",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "easylaser.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "ContactPoint",
+    "Organization",
+    "PostalAddress",
+    "Answer",
+    "BreadcrumbList",
+    "FAQPage"
+   ]
+  },
+  {
+   "domain": "investors.msasafety.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "manhattanlead.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "AggregateRating",
+    "Answer",
+    "BlogPosting",
+    "BreadcrumbList",
+    "City",
+    "EducationalOccupationalCredential"
+   ]
+  },
+  {
+   "domain": "us.msasafety.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "video.viavisolutions.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "acrossinternational.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "ContactPoint",
+    "Organization",
+    "PostalAddress"
+   ]
+  },
+  {
+   "domain": "artec3d.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "directindustry.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "eurolab.net",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "faa.gov",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "grainger.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "indeed.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "instagram.com",
+   "kind": "UGC / social",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "majorsafety.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "ListItem",
+    "WebSite"
+   ]
+  },
+  {
+   "domain": "nelpretech.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BlogPosting",
+    "ImageObject",
+    "Organization",
+    "Person",
+    "WebPage"
+   ]
+  },
+  {
+   "domain": "quora.com",
+   "kind": "UGC / social",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "researchgate.net",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "sciencedirect.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "scribd.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "simac.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "ListItem"
+   ]
+  },
+  {
+   "domain": "thermofisher.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "wohlerusa.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "ziprecruiter.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  }
+ ],
+ "competitors": [
+  {
+   "domain": "amazon.com",
+   "kind": "known competitor",
+   "pages": 12,
+   "read": 10,
+   "anyLd": 10,
+   "product": 0,
+   "types": [
+    "Person",
+    "VideoObject"
+   ]
+  },
+  {
+   "domain": "ebay.com",
+   "kind": "known competitor",
+   "pages": 7,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "directindustry.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "grainger.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "researchgate.net",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "scribd.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "jmtest.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "CollectionPage",
+    "Country",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem"
+   ]
+  },
+  {
+   "domain": "avalontest.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "keysight.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "tequipment.net",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "testequity.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "transcat.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "walmart.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "Answer",
+    "BreadcrumbList",
+    "CollectionPage",
+    "FAQPage",
+    "ItemList",
+    "ListItem"
+   ]
+  }
+ ],
+ "competitorSet": [
+  "aaatesters.com",
+  "alibaba.com",
+  "alltest.net",
+  "amazon.com",
+  "avalontest.com",
+  "axiomtest.com",
+  "directindustry.com",
+  "ebay.com",
+  "electrorent.com",
+  "globaltestsupply.com",
+  "grainger.com",
+  "jmtest.com",
+  "keysight.com",
+  "researchgate.net",
+  "scribd.com",
+  "tequipment.net",
+  "testequipmentdepot.com",
+  "testequity.com",
+  "theemcshop.com",
+  "transcat.com",
+  "trsrentelco.com",
+  "walmart.com",
+  "wikipedia.org"
+ ],
+ "keywords": 60,
+ "volume": 347990,
+ "urls": 474,
+ "read": 390,
+ "unread": 84,
+ "domains": 333,
+ "aiKeywords": 45,
+ "aiPct": 75,
+ "aiTop": [
+  {
+   "domain": "youtube.com",
+   "n": 25
+  },
+  {
+   "domain": "en.wikipedia.org",
+   "n": 12
+  },
+  {
+   "domain": "google.com",
+   "n": 8
+  },
+  {
+   "domain": "atecorp.com",
+   "n": 4
+  },
+  {
+   "domain": "trentonsystems.com",
+   "n": 4
+  },
+  {
+   "domain": "facebook.com",
+   "n": 3
+  },
+  {
+   "domain": "keysight.com",
+   "n": 3
+  },
+  {
+   "domain": "britannica.com",
+   "n": 2
+  },
+  {
+   "domain": "thermofisher.com",
+   "n": 2
+  },
+  {
+   "domain": "fcc.gov",
+   "n": 2
+  },
+  {
+   "domain": "einfochips.com",
+   "n": 2
+  },
+  {
+   "domain": "faa.gov",
+   "n": 2
+  }
+ ],
+ "clientAi": 4,
+ "carouselKeywords": 24,
+ "carouselPct": 40,
+ "carouselSellers": [
+  {
+   "seller": "Grainger Industrial Supply",
+   "n": 19
+  },
+  {
+   "seller": "VEVOR",
+   "n": 14
+  },
+  {
+   "seller": "Fisher Scientific",
+   "n": 14
+  },
+  {
+   "seller": "Instrumart",
+   "n": 12
+  },
+  {
+   "seller": "Lowe's",
+   "n": 11
+  },
+  {
+   "seller": "Home Depot",
+   "n": 11
+  },
+  {
+   "seller": "julabo.us",
+   "n": 11
+  },
+  {
+   "seller": "Cole-Parmer",
+   "n": 10
+  },
+  {
+   "seller": "Fluke.com",
+   "n": 9
+  },
+  {
+   "seller": "TEquipment",
+   "n": 9
+  },
+  {
+   "seller": "eBay",
+   "n": 8
+  },
+  {
+   "seller": "SupplyHouse.com",
+   "n": 8
+  }
+ ],
+ "carouselTotal": 488,
+ "byKind": {
+  "other site": 314,
+  "UGC / social": 41,
+  "known competitor": 21,
+  "reference": 8,
+  "the client": 6
+ },
+ "pageTypes": {
+  "other": 381,
+  "product page": 71,
+  "category / listing": 22
+ },
+ "markupByKind": {
+  "other site": {
+   "n": 314,
+   "anyLd": 55,
+   "product": 7
+  },
+  "reference": {
+   "n": 8,
+   "anyLd": 100,
+   "product": 0
+  },
+  "known competitor": {
+   "n": 21,
+   "anyLd": 14,
+   "product": 0
+  },
+  "the client": {
+   "n": 6,
+   "anyLd": 100,
+   "product": 0
+  },
+  "UGC / social": {
+   "n": 41,
+   "anyLd": 37,
+   "product": 0
+  }
+ },
+ "types": {
+  "Organization": 135,
+  "ListItem": 113,
+  "BreadcrumbList": 112,
+  "ImageObject": 111,
+  "WebPage": 81,
+  "WebSite": 80,
+  "Person": 59,
+  "SearchAction": 52,
+  "Article": 44,
+  "EntryPoint": 42,
+  "PropertyValueSpecification": 39,
+  "ReadAction": 36,
+  "PostalAddress": 27,
+  "Product": 21,
+  "Answer": 19,
+  "Question": 19,
+  "ContactPoint": 18,
+  "InteractionCounter": 17,
+  "FAQPage": 17,
+  "BlogPosting": 15
+ },
+ "cost": 0.35
+}
